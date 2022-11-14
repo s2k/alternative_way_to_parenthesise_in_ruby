@@ -1,4 +1,4 @@
-# Alternative Way to parenthesise in Ruby
+# Alternative Way to Parenthesise in Ruby
 
 Some Ruby code that demonstrates that one _can_ parenthesise in an alternative way in Ruby
 
